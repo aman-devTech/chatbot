@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "langchain>=1.4.0",
+    "streamlit>=1.64.0",
 ]
 
 [project.scripts]
